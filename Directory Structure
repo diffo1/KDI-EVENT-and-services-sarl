@@ -1,0 +1,40 @@
+kdi-enterprise/
+│
+├── .github/
+│   └── workflows/
+│
+├── apps/
+│   ├── api/
+│   ├── website/
+│   ├── admin/
+│   ├── client-portal/
+│   └── mobile/
+│
+├── packages/
+│   ├── ui/
+│   ├── auth/
+│   ├── config/
+│   ├── database/
+│   └── shared/
+│
+├── infrastructure/
+│   ├── docker/
+│   ├── kubernetes/
+│   ├── monitoring/
+│   ├── nginx/
+│   └── terraform/
+│
+├── database/
+├── docs/
+├── scripts/
+├── tests/
+│
+├── .editorconfig
+├── .env.example
+├── .gitattributes
+├── .gitignore
+├── docker-compose.yml
+├── LICENSE
+├── Makefile
+├── pnpm-workspace.yaml
+└── README.md
