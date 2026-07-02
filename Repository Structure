@@ -1,0 +1,28 @@
+kdi-enterprise/
+│
+├── apps/
+│   ├── api/
+│   ├── website/
+│   ├── admin/
+│   ├── client-portal/
+│   └── mobile/
+│
+├── packages/
+│   ├── ui/
+│   ├── auth/
+│   ├── database/
+│   ├── shared/
+│   └── config/
+│
+├── infrastructure/
+│   ├── docker/
+│   ├── nginx/
+│   ├── kubernetes/
+│   ├── monitoring/
+│   └── terraform/
+│
+├── database/
+├── docs/
+├── tests/
+├── scripts/
+└── .github/
